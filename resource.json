@@ -1,0 +1,539 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为网页资源信息",
+        " *   success字段为下载保存成功的资源;failures字段则为下载保存失败的资源URL",
+        " *   success字段为标准树结构，每一层资源父子关系、URL和保存路径清晰明了",
+        " *   本文件仅为记录检测到的网页资源以便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "success": [
+        {
+            "url": "http://www.zjzx.ah.cn/user/portal!xqcertyz.excsec?userId=3626703&clazzId=8525260",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "http://www.zjzx.ah.cn/css/drcl-images/logo.png",
+                    "path": "images/logo.png"
+                },
+                {
+                    "url": "http://www.zjzx.ah.cn/static2019/images/xccert.png",
+                    "path": "images/xccert.png"
+                },
+                {
+                    "url": "http://www.zjzx.ah.cn/static2019/js/table.js",
+                    "path": "js/table.js"
+                },
+                {
+                    "url": "http://www.zjzx.ah.cn/static2019/js/jquery.js",
+                    "path": "js/jquery.js"
+                },
+                {
+                    "url": "http://www.zjzx.ah.cn/static2019/css/master.css",
+                    "path": "css/master.css",
+                    "children": [
+                        {
+                            "url": "http://www.zjzx.ah.cn/static2019/css/structure.css?v=20191204",
+                            "path": "css/structure.css",
+                            "children": [
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/volume_quiet.png",
+                                    "path": "images/volume_quiet.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/news_icon.gif",
+                                    "path": "images/news_icon.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/expand.gif",
+                                    "path": "images/expand.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/course_bj.gif",
+                                    "path": "images/course_bj.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/sort-types-bj.gif",
+                                    "path": "images/sort-types-bj.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/arrow.gif",
+                                    "path": "images/arrow.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/icon-2.png",
+                                    "path": "images/icon-2.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/order_btn.gif",
+                                    "path": "images/order_btn.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/course_shopping.gif",
+                                    "path": "images/course_shopping.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/pop_bj.gif",
+                                    "path": "images/pop_bj.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/leftmenu_bj.gif",
+                                    "path": "images/leftmenu_bj.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/leftmenu_hover.gif",
+                                    "path": "images/leftmenu_hover.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/arrow_ico_grey.gif",
+                                    "path": "images/arrow_ico_grey.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/small_arrow.gif",
+                                    "path": "images/small_arrow.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/more-ico.gif",
+                                    "path": "images/more-ico.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/scrollbar.gif",
+                                    "path": "images/scrollbar.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/list_arrow.gif",
+                                    "path": "images/list_arrow.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/tab_click.gif",
+                                    "path": "images/tab_click.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/septal_line.gif",
+                                    "path": "images/septal_line.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/tab_cur.png",
+                                    "path": "images/tab_cur.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/btn-1.png",
+                                    "path": "images/btn-1.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/icon-1.gif",
+                                    "path": "images/icon-1.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/stars_bar.png",
+                                    "path": "images/stars_bar.png"
+                                }
+                            ]
+                        },
+                        {
+                            "url": "http://www.zjzx.ah.cn/static2019/css/reset.css",
+                            "path": "css/reset.css",
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.zjzx.ah.cn/static2019/css/share.css",
+                            "path": "css/share.css",
+                            "children": [
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/cross.gif",
+                                    "path": "images/cross.gif"
+                                }
+                            ]
+                        },
+                        {
+                            "url": "http://www.zjzx.ah.cn/static2019/css/share01.css",
+                            "path": "css/share01.css",
+                            "children": [
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/images/topbg01.gif",
+                                    "path": "images/topbg01.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/images/topline.jpg",
+                                    "path": "images/topline.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/images/topico.gif",
+                                    "path": "images/topico.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/btubg01.jpg",
+                                    "path": "images/btubg01.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/cxbg05.jpg",
+                                    "path": "images/cxbg05.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/btubg02.jpg",
+                                    "path": "images/btubg02.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/btubgyy.jpg",
+                                    "path": "images/btubgyy.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/find_bg.jpg",
+                                    "path": "images/find_bg.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/inputbg01.jpg",
+                                    "path": "images/inputbg01.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/login_bg.jpg",
+                                    "path": "images/login_bg.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/resbg.jpg",
+                                    "path": "images/resbg.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/picbg_bg.gif",
+                                    "path": "images/picbg_bg.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/woring.jpg",
+                                    "path": "images/woring.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/res_sucess.jpg",
+                                    "path": "images/res_sucess.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/butbg02.jpg",
+                                    "path": "images/butbg02.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/personbg.jpg",
+                                    "path": "images/personbg.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/rebtu01.jpg",
+                                    "path": "images/rebtu01.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/rebtu02.jpg",
+                                    "path": "images/rebtu02.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/rebtu03.jpg",
+                                    "path": "images/rebtu03.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/rebtu04.jpg",
+                                    "path": "images/rebtu04.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/rebtu05.jpg",
+                                    "path": "images/rebtu05.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/images/ico05.jpg",
+                                    "path": "images/ico05.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/cxbg01.jpg",
+                                    "path": "images/cxbg01.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/cxse.jpg",
+                                    "path": "images/cxse.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/cxse1.jpg",
+                                    "path": "images/cxse1.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/cxse0.jpg",
+                                    "path": "images/cxse0.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/cxbg02.jpg",
+                                    "path": "images/cxbg02.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/cxico01.jpg",
+                                    "path": "images/cxico01.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/cxbg03.jpg",
+                                    "path": "images/cxbg03.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/cxbg04.jpg",
+                                    "path": "images/cxbg04.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/cxred.gif",
+                                    "path": "images/cxred.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/cxback.gif",
+                                    "path": "images/cxback.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/pencil.png",
+                                    "path": "images/pencil.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/bankbg01.jpg",
+                                    "path": "images/bankbg01.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/sq.gif",
+                                    "path": "images/sq.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/bankbg02.jpg",
+                                    "path": "images/bankbg02.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/bankbg03.jpg",
+                                    "path": "images/bankbg03.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/bulebg.jpg",
+                                    "path": "images/bulebg.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/znbg03.jpg",
+                                    "path": "images/znbg03.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/znzk.jpg",
+                                    "path": "images/znzk.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/znss.jpg",
+                                    "path": "images/znss.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/bmbtu.jpg",
+                                    "path": "images/bmbtu.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/zfico.jpg",
+                                    "path": "images/zfico.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/rzico.jpg",
+                                    "path": "images/rzico.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/lxico.gif",
+                                    "path": "images/lxico.gif"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/bjico02.jpg",
+                                    "path": "images/bjico02.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/bjimg01.jpg",
+                                    "path": "images/bjimg01.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/bjimg02.jpg",
+                                    "path": "images/bjimg02.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/bjimg03.jpg",
+                                    "path": "images/bjimg03.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/bjimg04.jpg",
+                                    "path": "images/bjimg04.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/bjimg05.jpg",
+                                    "path": "images/bjimg05.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/bjimg06.jpg",
+                                    "path": "images/bjimg06.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/bjimg07.jpg",
+                                    "path": "images/bjimg07.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/bjico03.jpg",
+                                    "path": "images/bjico03.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/sdbg01.jpg",
+                                    "path": "images/sdbg01.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/sdbg04.jpg",
+                                    "path": "images/sdbg04.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/sdbg03.jpg",
+                                    "path": "images/sdbg03.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/sdbg02.jpg",
+                                    "path": "images/sdbg02.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/ico_tt.jpg",
+                                    "path": "images/ico_tt.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/znbg01.jpg",
+                                    "path": "images/znbg01.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/znbg02.jpg",
+                                    "path": "images/znbg02.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/znbz.jpg",
+                                    "path": "images/znbz.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/znbz-cz.jpg",
+                                    "path": "images/znbz-cz.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/messgebg01.jpg",
+                                    "path": "images/messgebg01.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/messico01.jpg",
+                                    "path": "images/messico01.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/messico02.jpg",
+                                    "path": "images/messico02.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/mail_pencil.jpg",
+                                    "path": "images/mail_pencil.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/image/error_bg.jpg",
+                                    "path": "images/error_bg.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "url": "http://www.zjzx.ah.cn/static2019/css/new-index.css?v=20200521",
+                            "path": "css/new-index.css",
+                            "children": [
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/bodybg.png",
+                                    "path": "images/bodybg.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/icon-arrow-down.png",
+                                    "path": "images/icon-arrow-down.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/logo.png",
+                                    "path": "images/logo_1.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/icon-user.png",
+                                    "path": "images/icon-user.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/icon-lock.png",
+                                    "path": "images/icon-lock.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/cloud-bg.jpg",
+                                    "path": "images/cloud-bg.jpg"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/icon-power.png",
+                                    "path": "images/icon-power.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/icon-triangle-right.png",
+                                    "path": "images/icon-triangle-right.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/icon-sound-s.png",
+                                    "path": "images/icon-sound-s.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/icon-point.png",
+                                    "path": "images/icon-point.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/navbg.png",
+                                    "path": "images/navbg.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/nav-cur.png",
+                                    "path": "images/nav-cur.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/paper-bg.png",
+                                    "path": "images/paper-bg.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/more.png",
+                                    "path": "images/more.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/icon-news.png",
+                                    "path": "images/icon-news.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/icon-chevron-down.png",
+                                    "path": "images/icon-chevron-down.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/icon-teach.png",
+                                    "path": "images/icon-teach.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/icon-arrow-left.png",
+                                    "path": "images/icon-arrow-left.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/icon-arrow-right.png",
+                                    "path": "images/icon-arrow-right.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/icon-book.png",
+                                    "path": "images/icon-book.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/boxbg.png",
+                                    "path": "images/boxbg.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/icon-sound.png",
+                                    "path": "images/icon-sound.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/service-top.png",
+                                    "path": "images/service-top.png"
+                                },
+                                {
+                                    "url": "http://www.zjzx.ah.cn/static2019/css/drcl-images/footer-bg.png",
+                                    "path": "images/footer-bg.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.zjzx.ah.cn/images/browser_logo.png",
+                    "path": "images/browser_logo.png"
+                }
+            ]
+        }
+    ],
+    "failures": []
+}

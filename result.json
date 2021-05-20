@@ -1,0 +1,56 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为请求参数，包括不限于网址、请求头、响应头、COOKIE、Referer、UserAgent",
+        " *   本文件仅为记录详细请求参数便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "directory": "www-zjzx-ah-cn-thlfijp2",
+    "options": {
+        "url": "http://www.zjzx.ah.cn/user/portal!xqcertyz.excsec?userId=3626703&clazzId=8525260",
+        "index": "index.html",
+        "domain": "www.zjzx.ah.cn",
+        "origin": "http://www.zjzx.ah.cn",
+        "ipaddress": "218.22.21.254",
+        "originURL": "http://www.zjzx.ah.cn/user/portal!xqcertyz.excsec?userId=3626703&clazzId=8525260",
+        "filenameGenerator": "byType",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/",
+                "cookie": "JSESSIONID=D959CFD88BE30138EB7ACAB7EB19F300; cookie=20111254"
+            }
+        },
+        "response": {
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx/1.18.0",
+                "date": "Thu, 20 May 2021 12:34:12 GMT",
+                "content-type": "text/html;charset=UTF-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "content-encoding": "gzip",
+                "vary": "Accept-Encoding",
+                "set-cookie": [
+                    "cookie=20111254; expires=Fri, 21-May-2021 17:18:26 GMT; path=/"
+                ]
+            }
+        }
+    },
+    "user": {
+        "isWhite": false
+    },
+    "formatter": [
+        "saveOriginal"
+    ],
+    "time": {
+        "start": 1621513621644,
+        "end": 1621513641032,
+        "spend": 19.388
+    }
+}
